@@ -12,12 +12,12 @@
 - [x] Submit links
 
 ### Evidence
-- README link:https://github.com/NatthakamonW/github101-practice/blob/main/README.md
-- Evidence file:
+- README link: https://github.com/NatthakamonW/github101-practice/blob/main/README.md
+- Evidence file: https://github.com/NatthakamonW/github101-practice/blob/main/docs/evidence/67050151-natthakamon.md
 - Commit link:
 
 ### Blocker
-- ไม่มี / มี: ...
+- ไม่มี
 
 ### Need help from
-- Scrum Lead / teammate / TA / อาจารย์
+- 
