@@ -17,7 +17,7 @@ NatthakamonW
 
 - README link: https://github.com/NatthakamonW/github101-practice/blob/main/README.md
 - Commit link: https://github.com/NatthakamonW/github101-practice/blob/main/docs/evidence/67050151-natthakamon.md
-- Issue link:
+- Issue link: https://github.com/NatthakamonW/github101-practice/blob/main/docs/issues/67050151_Natthakamon.md
 
 ## 5. Reflection
 
