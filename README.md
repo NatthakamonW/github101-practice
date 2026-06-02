@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Natthakamon Wathpreechakul | Team 02 | Embedded / IoT Developer | https://github.com/NatthakamonW/github101-practice/blob/main/docs/evidence/67050151-natthakamon.md | - |
+| Natthakamon Wathpreechakul | Team 02 | Embedded / IoT Developer | https://github.com/NatthakamonW/github101-practice/blob/main/docs/evidence/67050151-natthakamon.md | https://github.com/NatthakamonW/github101-practice/blob/main/docs/issues/67050151_Natthakamon.md |
 
 ---
 
